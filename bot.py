@@ -7,8 +7,8 @@ from os import system
 import subprocess
 import shutil
 
-token = "yourtoken"
-channel_id = 0000000000000
+token = "OTgxNzA3NjEwOTA4NjU1NjM3._Z5MX9sEO4F1mkv7-NT6WmCX_po"
+channel_id = 985748258515218475
 
 file_path = os.path.abspath(os.path.dirname(__file__))
 
