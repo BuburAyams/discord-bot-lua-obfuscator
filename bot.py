@@ -7,7 +7,7 @@ from os import system
 import subprocess
 import shutil
 
-token = "OTgxNzA3NjEwOTA4NjU1NjM3._Z5MX9sEO4F1mkv7-NT6WmCX_po"
+token = "OTgxNzgtr6e5EwOTA4NjUffyfu1NjM3._Z5MX9sEO4F1mk"
 channel_id = 985748258515218475
 
 file_path = os.path.abspath(os.path.dirname(__file__))
